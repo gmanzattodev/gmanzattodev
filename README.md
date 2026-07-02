@@ -60,7 +60,7 @@ Apaixonado por tecnologia, desenvolvimento de interfaces modernas, sistemas em t
 - 🏫 Sistema Escolar  
 - 📊 Dashboard Automotivo  
 - 🌐 MQTT Dashboard  
-  
+- 🌿 AgroNova
 
 ---
 
