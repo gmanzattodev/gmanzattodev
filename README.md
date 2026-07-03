@@ -34,7 +34,7 @@ Apaixonado por tecnologia, desenvolvimento de interfaces modernas, sistemas em t
 
 ### Embedded / IoT
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,linux" />
 </p>
 
 ### Ferramentas
