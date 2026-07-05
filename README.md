@@ -43,6 +43,10 @@ Apaixonado por tecnologia, desenvolvimento de interfaces modernas, sistemas em t
 </p>
 
 ---
+## Ferramentas
+- Essas ferramentas sao a base apra o que eu quero
+- 7 dessas ferramentas eu sei
+- as outras eu estou em desenvolvimento
 
 ## 🎯 Áreas de Interesse
 
