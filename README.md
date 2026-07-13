@@ -68,15 +68,6 @@ Apaixonado por tecnologia, desenvolvimento de interfaces modernas, sistemas em t
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmanzattodev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmanzattodev&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Contato
 
 <p>
