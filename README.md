@@ -65,6 +65,7 @@ Apaixonado por tecnologia, desenvolvimento de interfaces modernas, sistemas em t
 - 📊 Dashboard Automotivo  
 - 🌐 MQTT Dashboard  
 - 🌿 AgroNova
+- Em Desenvolvimento (Fotografia)
 
 ---
 
