@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-labelledby="title desc">
+<title id="title">Desenvolvimento Front-End</title><desc id="desc">Editor de código com cursor animado e detalhes em verde.</desc>
+<rect width="800" height="260" rx="20" fill="#161b22"/>
+<rect x="1" y="1" width="798" height="258" rx="19" fill="none" stroke="#30363d"/>
+<g fill="#52665a"><circle cx="28" cy="26" r="5"/><circle cx="46" cy="26" r="5"/><circle cx="64" cy="26" r="5"/></g>
+<text x="86" y="31" fill="#8b949e" font-family="monospace" font-size="13">about / giovani.js</text>
+<path d="M20 48H780" stroke="#30363d"/>
+<g font-family="monospace" font-size="18">
+<text x="32" y="88" fill="#8b949e">01</text><text x="80" y="88" fill="#a8c5b0">const</text><text x="145" y="88" fill="#e6edf3">developer = {</text>
+<text x="32" y="123" fill="#8b949e">02</text><text x="104" y="123" fill="#e6edf3">name:</text><text x="176" y="123" fill="#a8c5b0">"Giovani Manzatto",</text>
+<text x="32" y="158" fill="#8b949e">03</text><text x="104" y="158" fill="#e6edf3">focus:</text><text x="186" y="158" fill="#a8c5b0">"Front-End",</text>
+<text x="32" y="193" fill="#8b949e">04</text><text x="104" y="193" fill="#e6edf3">stack:</text><text x="186" y="193" fill="#a8c5b0">["JavaScript", "React"]</text>
+<text x="32" y="228" fill="#8b949e">05</text><text x="80" y="228" fill="#e6edf3">};</text>
+</g>
+<rect x="107" y="211" width="9" height="20" rx="1" fill="#a8c5b0"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<g transform="translate(674 116)" fill="none" stroke="#a8c5b0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M-28 -20L-48 0L-28 20M28 -20L48 0L28 20M10 -30L-10 30"/><animate attributeName="opacity" values=".45;.9;.45" dur="4s" repeatCount="indefinite"/></g>
+</svg>
