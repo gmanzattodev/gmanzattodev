@@ -25,7 +25,7 @@ Também estudo Linux e tenho interesse em explorar a integração entre interfac
 
 ## Tecnologias
 
-<p align="center"><img src="./assets/roadmap-nested-cards.svg" width="960" alt="Meu roadmap em código: array de cards de tecnologias com arrays de trilhas, módulos, tópicos e práticas dentro de cada card." /></p>
+<p align="center"><img src="./assets/profile-nested-compact.svg" width="800" alt="Sobre mim: Giovani Manzatto, Front-End. Uso HTML, CSS, JavaScript e React; aprofundo GSAP, Linux e Node.js; quero aprender Python, C++, Cibersegurança, MQTT e ESP32." /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Git, GitHub, Linux e Visual Studio Code" />
