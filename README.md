@@ -20,6 +20,10 @@
 
 ## Sobre mim
 
+<p align="center">
+  <img src="./assets/about-dev.svg" width="800" alt="Editor de código animado com minha apresentação: Giovani Manzatto, Front-End, JavaScript e React." />
+</p>
+
 Sou desenvolvedor com foco em **Front-End**. Construo projetos para evoluir em JavaScript, React, responsividade e organização de interfaces — de sites de fotografia a um portfólio inspirado em um sistema operacional.
 
 Também estudo Linux e tenho interesse em explorar a integração entre interfaces web, IoT e sistemas embarcados.
