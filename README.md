@@ -25,7 +25,7 @@ Também estudo Linux e tenho interesse em explorar a integração entre interfac
 
 ## Tecnologias
 
-<p align="center"><img src="./assets/tech-panel.svg" width="800" alt="Tecnologias e ferramentas de desenvolvimento" /></p>
+<p align="center"><img src="./assets/roadmap-nested-cards.svg" width="960" alt="Meu roadmap em código: array de cards de tecnologias com arrays de trilhas, módulos, tópicos e práticas dentro de cada card." /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Git, GitHub, Linux e Visual Studio Code" />
