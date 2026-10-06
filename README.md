@@ -1,13 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/FRONT%E2%80%94END%20DEVELOPER-252A34?style=for-the-badge" alt="Front-End Developer" />
-
-<h1>Olá, eu sou Giovani Manzatto 👋</h1>
-
-<p>
-  <strong>Desenvolvimento Front-End · JavaScript · React</strong><br>
-  <sub>Interfaces, experiências interativas e aprendizado na prática.</sub>
-</p>
+<img src="./assets/profile-hero.svg" width="800" alt="Olá, eu sou Giovani Manzatto. Desenvolvimento Front-End · JavaScript · React. Interfaces, experiências interativas e aprendizado na prática." />
 
 <p>
   <a href="https://www.linkedin.com/in/giovanimanzattofurlan"><img src="https://img.shields.io/badge/LinkedIn-52665A?style=for-the-badge" alt="LinkedIn" /></a>
@@ -32,6 +25,8 @@ Também estudo Linux e tenho interesse em explorar a integração entre interfac
 
 ## Tecnologias
 
+<p align="center"><img src="./assets/tech-panel.svg" width="800" alt="Tecnologias e ferramentas de desenvolvimento" /></p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Git, GitHub, Linux e Visual Studio Code" />
 </p>
@@ -50,12 +45,14 @@ Também estudo Linux e tenho interesse em explorar a integração entre interfac
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="./assets/project-gmos.svg" width="400" alt="Ilustração de GM OS" />
 <h3>💻 GM OS</h3>
 <p>Portfólio interativo inspirado em um desktop, com janelas e aplicativos. Em desenvolvimento.</p>
 <p><sub><strong>React, JavaScript e CSS</strong></sub></p>
 <p><a href="https://github.com/gmanzattodev/GMOS"><img src="https://img.shields.io/badge/GM%20OS-252A34?style=for-the-badge" alt="GM OS" /></a></p>
 </td>
 <td width="50%" valign="top">
+<img src="./assets/project-photo.svg" width="400" alt="Ilustração de Site de fotografia" />
 <h3>📸 Site de fotografia</h3>
 <p>Apresentação de serviços e trabalhos fotográficos, com foco em experiência visual e responsividade. Em desenvolvimento.</p>
 <p><sub><strong>HTML, CSS e JavaScript</strong></sub></p>
@@ -64,12 +61,14 @@ Também estudo Linux e tenho interesse em explorar a integração entre interfac
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="./assets/project-agro.svg" width="400" alt="Ilustração de AgroNova" />
 <h3>🌱 AgroNova</h3>
 <p>Experiência interativa com um celular virtual e navegação entre conteúdos.</p>
 <p><sub><strong>HTML, CSS e JavaScript</strong></sub></p>
 <p><a href="https://github.com/gmanzattodev/agro"><img src="https://img.shields.io/badge/AgroNova-252A34?style=for-the-badge" alt="AgroNova" /></a></p>
 </td>
 <td width="50%" valign="top">
+<img src="./assets/project-cars.svg" width="400" alt="Ilustração de EsportCars" />
 <h3>🚗 EsportCars</h3>
 <p>Site sobre carros para praticar construção de layouts e efeitos visuais.</p>
 <p><sub><strong>HTML, CSS e JavaScript</strong></sub></p>
@@ -81,6 +80,8 @@ Também estudo Linux e tenho interesse em explorar a integração entre interfac
 <br>
 
 ## Aprendizado na prática
+
+<p align="center"><img src="./assets/learning-panel.svg" width="800" alt="Painel de terminal: estudos de JavaScript, interfaces e Linux" /></p>
 
 <table>
 <tr>
@@ -105,7 +106,7 @@ Meu foco de evolução é construir interfaces que funcionem bem em diferentes t
 
 <div align="center">
 
-<h2>Vamos conversar?</h2>
+<img src="./assets/contact-panel.svg" width="800" alt="Vamos conversar? Você pode me encontrar no LinkedIn." />
 
 <p>Você pode me encontrar no LinkedIn.</p>
 
